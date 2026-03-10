@@ -1,0 +1,31 @@
+Example,Question,Answer,Confidence,Total Words,Important Words,Token Influence Ratio
+1,How might gravity effects be observed differently according to Newton?,at larger distances,0.501376331,62,12,0.193548387
+2,What is the prize offered for finding a solution to P=NP?,"US$1,000,000",0.609739423,78,15,0.192307692
+3,What color were the Bronco's uniforms in Super Bowl 50?,white,0.485361286,107,21,0.196261682
+4,What are the little tentacles that cydippids have called?,tentilla,0.996118067,128,25,0.1953125
+5,Which lunar probe was near the Apollo 12 crew's landing site?,Surveyor 3,0.941806853,85,17,0.2
+6,Electrolysis of what can be used to produce oxygen and hydrogen?,water,0.994443774,110,22,0.2
+7,When was the Edict of Worms presented?,25 May 1521,0.979684983,69,13,0.188405797
+8,How many other important people sent letters?,70,0.513179898,51,10,0.196078431
+9,What is an alternate way to make starch?,glucose monomers,0.26342833,100,20,0.2
+10,What type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery?,X-ray,0.492921144,131,26,0.198473282
+11,Where did Maududi's books place Islam?,modern context,0.404677391,104,20,0.192307692
+12,What is the process of constructing a building or infrastructure?,Construction,0.955649771,64,12,0.1875
+13,How many will the host committee dedicate to local charities?,25,0.516322732,54,10,0.185185185
+14,In what city is SAP Center located?,San Jose,0.995925844,59,11,0.186440678
+15,"For what invention was U.S. Patent 1,655,114 granted?",a biplane capable of taking off vertically,0.267497957,82,16,0.195121951
+16,For what purpose is oxygen used by animal life?,cellular respiration,0.92810128,85,17,0.2
+17,By which year did the American cars mpg start to improve?,1985,0.949136019,139,27,0.194244604
+18,Which religion did Kublai prefer?,Buddhism,0.697825766,141,28,0.19858156
+19,Early Western texts referencing the East describe the people as being what?,irrational and backward,0.849832952,116,23,0.198275862
+20,Who is the NFL's vice president of brand and creative?,Jaime Weston,0.996703744,88,17,0.193181818
+21,What does Obersee mean?,upper lake,0.949802339,78,15,0.192307692
+22,What types of engines are steam engines?,external combustion engines,0.768706679,69,13,0.188405797
+23,In what process are electrons recycled?,cyclic photophosphorylation,0.708092262,69,13,0.188405797
+24,What third type of plea uses creative words?,plea of no contest,0.074931785,141,28,0.19858156
+25,What objects in organisms absorb singlet oxygen to prevent harm?,Carotenoids,0.986378725,86,17,0.197674419
+26,"In a market economy, what is inequality a reflection of?",the productivity gap between highly-paid professions and lower-paid professions,0.3860493,63,12,0.19047619
+27,"What interpretation of Islam is, for many of the adherents, the ""gold standard"" of their religion?",Saudi,0.423496543,88,17,0.193181818
+28,Ctenophores are less complex than what other group?,bilaterians,0.988416297,72,14,0.194444444
+29,Who was the NFL Commissioner in early 2012?,Roger Goodell,0.998345151,35,7,0.2
+30,In contrast how were Catholic saints portrayed?,frail,0.949535728,103,20,0.194174757
